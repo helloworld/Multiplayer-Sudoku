@@ -10,10 +10,11 @@ Developing sound logical reasoning and critical thinking skills are critical for
 
 ## Screenshots
 
-Here provide couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
-
+### Join the game!
 ![Join Room](/images/1.png "Join Room")
+### Add your friends!
 ![Add Friends](/images/2.png "Add Friends")
+### Compete!
 ![Compete!](/images/3.png "Compete!")
 
 
